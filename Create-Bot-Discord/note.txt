@@ -1,0 +1,5 @@
+We want a bot for Discord which will:
+
+- Display a cute Gopher, when we will enter !gopher in our favorite Discord server(s)
+- Display the list of available Gophers, when we will enter !gophers
+- Display a random Gopher, when we will enter !random
